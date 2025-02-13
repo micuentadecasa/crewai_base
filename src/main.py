@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import sys
-from analyzing_contract_clauses_for_conflicts_and_similarities.crew import (
+from crew import (
     AnalyzingContractClausesForConflictsAndSimilaritiesCrew,
 )
 
