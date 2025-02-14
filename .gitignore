@@ -3,4 +3,4 @@
 .venv
 /src/sync
 myenv
-*.cpython
+*pyc
