@@ -4,7 +4,7 @@ from crewai.project import CrewBase, agent, crew, task
 # from crewai_tools import QdrantVectorSearchTool
 import os
 from dotenv import load_dotenv
-from analyzing_contract_clauses_for_conflicts_and_similarities.tools.qdrant_vector_search_tool import (
+from tools.qdrant_vector_search_tool import (
     QdrantVectorSearchTool,
 )
 
